@@ -1,0 +1,263 @@
+[
+    {
+      "name": "Lionel Messi",
+      "age": 36,
+      "email": "lionelmessi@futbol.com",
+      "address": {
+        "street": "Calle de los Campeones",
+        "city": "Rosario",
+        "state": "Santa Fe",
+        "country": "Argentina"
+      },
+      "avatar": "https://example.com/images/lionel-messi.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "age": 39,
+      "email": "cristianoronaldo@futbol.com",
+      "address": {
+        "street": "Avenida del Goleador",
+        "city": "Funchal",
+        "state": "Madeira",
+        "country": "Portugal"
+      },
+      "avatar": "https://example.com/images/cristiano-ronaldo.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "age": 25,
+      "email": "kylianmbappe@futbol.com",
+      "address": {
+        "street": "Rue des Légendes",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France"
+      },
+      "avatar": "https://example.com/images/kylian-mbappe.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Erling Haaland",
+      "age": 23,
+      "email": "erlinghaaland@futbol.com",
+      "address": {
+        "street": "Strasse der Talente",
+        "city": "Bryne",
+        "state": "Rogaland",
+        "country": "Norway"
+      },
+      "avatar": "https://example.com/images/erling-haaland.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Neymar Jr.",
+      "age": 32,
+      "email": "neymarjr@futbol.com",
+      "address": {
+        "street": "Avenida del Arte",
+        "city": "Mogi das Cruzes",
+        "state": "São Paulo",
+        "country": "Brazil"
+      },
+      "avatar": "https://example.com/images/neymar-jr.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Robert Lewandowski",
+      "age": 35,
+      "email": "robertlewandowski@futbol.com",
+      "address": {
+        "street": "Ulica Strzelców",
+        "city": "Warsaw",
+        "state": "Mazovia",
+        "country": "Poland"
+      },
+      "avatar": "https://example.com/images/robert-lewandowski.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "age": 32,
+      "email": "kevindebruyne@futbol.com",
+      "address": {
+        "street": "Straat van Sterren",
+        "city": "Drongen",
+        "state": "East Flanders",
+        "country": "Belgium"
+      },
+      "avatar": "https://example.com/images/kevin-de-bruyne.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Sergio Ramos",
+      "age": 37,
+      "email": "sergioramos@futbol.com",
+      "address": {
+        "street": "Calle del Capitán",
+        "city": "Sevilla",
+        "state": "Andalucía",
+        "country": "Spain"
+      },
+      "avatar": "https://example.com/images/sergio-ramos.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Virgil van Dijk",
+      "age": 32,
+      "email": "virgilvandijk@futbol.com",
+      "address": {
+        "street": "Straat van Verdedigers",
+        "city": "Breda",
+        "state": "North Brabant",
+        "country": "Netherlands"
+      },
+      "avatar": "https://example.com/images/virgil-van-dijk.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Mohamed Salah",
+      "age": 31,
+      "email": "mohamedsalah@futbol.com",
+      "address": {
+        "street": "شارع الملوك",
+        "city": "Nagrig",
+        "state": "Gharbia",
+        "country": "Egypt"
+      },
+      "avatar": "https://example.com/images/mohamed-salah.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Karim Benzema",
+      "age": 36,
+      "email": "karimbenzema@futbol.com",
+      "address": {
+        "street": "Rue des Attaquants",
+        "city": "Lyon",
+        "state": "Auvergne-Rhône-Alpes",
+        "country": "France"
+      },
+      "avatar": "https://example.com/images/karim-benzema.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Harry Kane",
+      "age": 30,
+      "email": "harrykane@futbol.com",
+      "address": {
+        "street": "Striker's Lane",
+        "city": "London",
+        "state": "England",
+        "country": "United Kingdom"
+      },
+      "avatar": "https://example.com/images/harry-kane.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Vinícius Jr.",
+      "age": 23,
+      "email": "viniciusjr@futbol.com",
+      "address": {
+        "street": "Rua do Futuro",
+        "city": "São Gonçalo",
+        "state": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      "avatar": "https://example.com/images/vinicius-jr.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Marcus Rashford",
+      "age": 26,
+      "email": "marcusrashford@futbol.com",
+      "address": {
+        "street": "Dreams Drive",
+        "city": "Manchester",
+        "state": "England",
+        "country": "United Kingdom"
+      },
+      "avatar": "https://example.com/images/marcus-rashford.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Pedri González",
+      "age": 21,
+      "email": "pedrigonzalez@futbol.com",
+      "address": {
+        "street": "Calle del Talento",
+        "city": "Tegueste",
+        "state": "Canary Islands",
+        "country": "Spain"
+      },
+      "avatar": "https://example.com/images/pedri-gonzalez.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Gavi",
+      "age": 19,
+      "email": "gavi@futbol.com",
+      "address": {
+        "street": "Calle Juvenil",
+        "city": "Los Palacios",
+        "state": "Andalucía",
+        "country": "Spain"
+      },
+      "avatar": "https://example.com/images/gavi.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Luka Modrić",
+      "age": 38,
+      "email": "lukamodric@futbol.com",
+      "address": {
+        "street": "Ulica Majstora",
+        "city": "Zadar",
+        "state": "Dalmatia",
+        "country": "Croatia"
+      },
+      "avatar": "https://example.com/images/luka-modric.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Paul Pogba",
+      "age": 31,
+      "email": "paulpogba@futbol.com",
+      "address": {
+        "street": "Rue des Passes",
+        "city": "Lagny-sur-Marne",
+        "state": "Île-de-France",
+        "country": "France"
+      },
+      "avatar": "https://example.com/images/paul-pogba.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Heung-min Son",
+      "age": 31,
+      "email": "heungminson@futbol.com",
+      "address": {
+        "street": "거리의 빛",
+        "city": "Chuncheon",
+        "state": "Gangwon",
+        "country": "South Korea"
+      },
+      "avatar": "https://example.com/images/heung-min-son.jpg",
+      "type": "player"
+    },
+    {
+      "name": "Alphonso Davies",
+      "age": 23,
+      "email": "alphonsodavies@futbol.com",
+      "address": {
+        "street": "Speed Street",
+        "city": "Edmonton",
+        "state": "Alberta",
+        "country": "Canada"
+      },
+      "avatar": "https://example.com/images/alphonso-davies.jpg",
+      "type": "player"
+    }
+  ]
+  
